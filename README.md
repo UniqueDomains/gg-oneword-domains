@@ -1,10 +1,10 @@
-# Available .GG One-Word Domains (77,901)
+# Available .GG One-Word Domains (77,978)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-77%2C901%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-77%2C978%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .gg one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **77,901 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **77,978 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 77,901 domains
+**Public extract:** 1,000 rows · **Live catalog:** 77,978 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/gg`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| iPhone.gg     | available | $82.98    | —             | 90             | 82     | 6      | namecheap                                   |
-| american.gg   | resell    | —         | —             | 98             | 98     | 8      | NameCheap, Inc (https://www.namecheap.com)  |
-| wordup.gg     | premium   | —         | —             | 72             | 92     | 7      | —                                           |
-| which.gg      | available | $82.98    | —             | 64             | 59     | 5      | namecheap                                   |
-| mind.gg       | resell    | —         | —             | 94             | 92     | 4      | 1API (http://www.1api.net)                  |
-| gobeyond.gg   | premium   | —         | —             | 72             | 92     | 9      | —                                           |
-| foto.gg       | available | $82.98    | —             | 76             | 28     | 4      | namecheap                                   |
-| scribe.gg     | resell    | —         | —             | 82             | 92     | 6      | Web Gnomes, LLC (https://www.webgnomes.org) |
-| supremo.gg    | premium   | —         | —             | 66             | 92     | 7      | —                                           |
-| trees.gg      | available | $82.98    | —             | 58             | 26     | 5      | namecheap                                   |
-| medusa.gg     | resell    | —         | —             | 64             | 92     | 6      | Dynadot Inc. (https://www.dynadot.com)      |
-| outdoorsy.gg  | premium   | —         | —             | 62             | 92     | 9      | —                                           |
-| prose.gg      | available | $82.98    | —             | 60             | 25     | 5      | namecheap                                   |
-| firebrand.gg  | resell    | —         | —             | 58             | 92     | 9      | Porkbun LLC (https://porkbun.com/)          |
-| buildable.gg  | premium   | —         | —             | 54             | 92     | 9      | —                                           |
-| Adidas.gg     | available | $82.98    | —             | 88             | 23     | 6      | namecheap                                   |
-| torpedo.gg    | resell    | —         | —             | 82             | 88     | 7      | Enrapture Limited (https://enrapture.gg)    |
-| loma.gg       | premium   | —         | —             | 52             | 92     | 4      | —                                           |
-| retirement.gg | available | $82.98    | —             | 80             | 23     | 10     | namecheap                                   |
-| indigo.gg     | resell    | —         | —             | 68             | 88     | 6      | 1API (http://www.1api.net)                  |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
+| iPhone.gg         | available | $82.98    | —             | 90             | 82     | 6      | namecheap                                |
+| mind.gg           | resell    | —         | —             | 94             | 92     | 4      | 1API (http://www.1api.net)               |
+| gobeyond.gg       | premium   | —         | —             | 72             | 92     | 9      | —                                        |
+| which.gg          | available | $82.98    | —             | 64             | 59     | 5      | namecheap                                |
+| medusa.gg         | resell    | —         | —             | 64             | 92     | 6      | Dynadot Inc. (https://www.dynadot.com)   |
+| outdoorsy.gg      | premium   | —         | —             | 62             | 92     | 9      | —                                        |
+| foto.gg           | available | $82.98    | —             | 76             | 28     | 4      | namecheap                                |
+| firebrand.gg      | resell    | —         | —             | 58             | 92     | 9      | Porkbun LLC (https://porkbun.com/)       |
+| buildable.gg      | premium   | —         | —             | 54             | 92     | 9      | —                                        |
+| trees.gg          | available | $82.98    | —             | 58             | 26     | 5      | namecheap                                |
+| torpedo.gg        | resell    | —         | —             | 82             | 88     | 7      | Enrapture Limited (https://enrapture.gg) |
+| loma.gg           | premium   | —         | —             | 52             | 92     | 4      | —                                        |
+| prose.gg          | available | $82.98    | —             | 60             | 25     | 5      | namecheap                                |
+| indigo.gg         | resell    | —         | —             | 68             | 88     | 6      | 1API (http://www.1api.net)               |
+| scholastic.gg     | premium   | —         | —             | 80             | 88     | 10     | —                                        |
+| Adidas.gg         | available | $82.98    | —             | 88             | 23     | 6      | namecheap                                |
+| convey.gg         | resell    | —         | —             | 60             | 88     | 6      | Enrapture Limited (https://enrapture.gg) |
+| investmentbank.gg | premium   | —         | —             | 66             | 88     | 15     | —                                        |
+| retirement.gg     | available | $82.98    | —             | 80             | 23     | 10     | namecheap                                |
+| indy.gg           | resell    | —         | —             | 74             | 84     | 4      | Porkbun LLC (https://porkbun.com/)       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 77,901 live domains                              |
+| 1,000-row public sample | 77,978 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GG One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GG One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
