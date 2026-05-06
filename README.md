@@ -1,10 +1,10 @@
-# Available .GG One-Word Domains (77,978)
+# Available .GG One-Word Domains (77,982)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-77%2C978%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-77%2C982%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .gg one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **77,978 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **77,982 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 77,978 domains
+**Public extract:** 1,000 rows · **Live catalog:** 77,982 domains · **Median ask:** $82.07 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/gg`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
-| iPhone.gg         | available | $82.98    | —             | 90             | 82     | 6      | namecheap                                |
-| mind.gg           | resell    | —         | —             | 94             | 92     | 4      | 1API (http://www.1api.net)               |
-| gobeyond.gg       | premium   | —         | —             | 72             | 92     | 9      | —                                        |
-| which.gg          | available | $82.98    | —             | 64             | 59     | 5      | namecheap                                |
-| medusa.gg         | resell    | —         | —             | 64             | 92     | 6      | Dynadot Inc. (https://www.dynadot.com)   |
-| outdoorsy.gg      | premium   | —         | —             | 62             | 92     | 9      | —                                        |
-| foto.gg           | available | $82.98    | —             | 76             | 28     | 4      | namecheap                                |
-| firebrand.gg      | resell    | —         | —             | 58             | 92     | 9      | Porkbun LLC (https://porkbun.com/)       |
-| buildable.gg      | premium   | —         | —             | 54             | 92     | 9      | —                                        |
-| trees.gg          | available | $82.98    | —             | 58             | 26     | 5      | namecheap                                |
-| torpedo.gg        | resell    | —         | —             | 82             | 88     | 7      | Enrapture Limited (https://enrapture.gg) |
-| loma.gg           | premium   | —         | —             | 52             | 92     | 4      | —                                        |
-| prose.gg          | available | $82.98    | —             | 60             | 25     | 5      | namecheap                                |
-| indigo.gg         | resell    | —         | —             | 68             | 88     | 6      | 1API (http://www.1api.net)               |
-| scholastic.gg     | premium   | —         | —             | 80             | 88     | 10     | —                                        |
-| Adidas.gg         | available | $82.98    | —             | 88             | 23     | 6      | namecheap                                |
-| convey.gg         | resell    | —         | —             | 60             | 88     | 6      | Enrapture Limited (https://enrapture.gg) |
-| investmentbank.gg | premium   | —         | —             | 66             | 88     | 15     | —                                        |
-| retirement.gg     | available | $82.98    | —             | 80             | 23     | 10     | namecheap                                |
-| indy.gg           | resell    | —         | —             | 74             | 84     | 4      | Porkbun LLC (https://porkbun.com/)       |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                         |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------- |
+| pinch.gg        | available | $82.98    | —             | 80             | 18     | 5      | namecheap                                         |
+| laugh.gg        | premium   | —         | —             | 86             | 15     | 5      | —                                                 |
+| jewels.gg       | available | $82.98    | —             | 80             | 15     | 6      | namecheap                                         |
+| Adidas.gg       | available | $82.98    | —             | 88             | 23     | 6      | namecheap                                         |
+| iPhone.gg       | available | $82.98    | —             | 90             | 82     | 6      | namecheap                                         |
+| QandA.gg        | available | $82.98    | —             | 80             | 10     | 7      | namecheap                                         |
+| retirement.gg   | available | $82.98    | —             | 80             | 23     | 10     | namecheap                                         |
+| for.gg          | resell    | —         | —             | 80             | 50     | 3      | Spaceship, Inc (https://www.spaceship.com)        |
+| gay.gg          | resell    | —         | —             | 82             | 43     | 3      | West263 International Limited (http://www.363.hk) |
+| she.gg          | resell    | —         | —             | 86             | 29     | 3      | Spaceship, Inc (https://www.spaceship.com)        |
+| clay.gg         | resell    | —         | —             | 80             | 35     | 4      | NameCheap, Inc (https://www.namecheap.com)        |
+| make.gg         | resell    | —         | —             | 82             | 45     | 4      | NETIM (http://www.netim.com)                      |
+| after.gg        | resell    | —         | —             | 86             | 27     | 5      | Backorder Ltd (https://backorder.com)             |
+| popup.gg        | resell    | —         | —             | 84             | 29     | 6      | Dynadot Inc. (https://www.dynadot.com)            |
+| fashion.gg      | resell    | —         | —             | 80             | 41     | 7      | Dynadot Inc. (https://www.dynadot.com)            |
+| Friends.gg      | resell    | —         | —             | 82             | 37     | 7      | Spaceship, Inc (https://www.spaceship.com)        |
+| fanclub.gg      | resell    | —         | —             | 84             | 20     | 8      | Enrapture Limited (https://enrapture.gg)          |
+| intelligence.gg | resell    | —         | —             | 84             | 38     | 12     | Enrapture Limited (https://enrapture.gg)          |
+| hall.gg         | resell    | —         | —             | 80             | 27     | 4      | Dynadot Inc. (https://www.dynadot.com)            |
+| lipstick.gg     | premium   | —         | —             | 90             | 84     | 8      | —                                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 77,978 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 77,982 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These .gg domains span several naming styles. Some are short and memorable, such as pinch.gg, laugh.gg, she.gg, and jewels.gg. Others are broad keyword terms like retirement.gg or ultra-short function words like for.gg. This mix matters because .gg buyers usually need to weigh memorability against specificity and legal risk. When comparing these domains, start with whether the term is clean and ownable, then check ask price against how strong the word is on recall and commercial use. Be cautious with names that match famous brands or products, including Adidas.gg and iPhone.gg, because trademark risk is clear even if the string looks attractive.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- 77,982 .gg domains in this selection
+- Median ask across the set is 82.07
+- Short words can be memorable but not always ownable
+- Famous brand terms carry obvious trademark risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GG One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GG One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
