@@ -65,7 +65,7 @@ print(df.head())
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                         |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------- |
 | pinch.gg        | available | $82.98    | —             | 80             | 18     | 5      | namecheap                                         |
-| laugh.gg        | premium   | —         | —             | 86             | 15     | 5      | —                                                 |
+| laugh.gg        | premium   | —         | —             | 86             | 14     | 5      | —                                                 |
 | jewels.gg       | available | $82.98    | —             | 80             | 15     | 6      | namecheap                                         |
 | Adidas.gg       | available | $82.98    | —             | 88             | 23     | 6      | namecheap                                         |
 | iPhone.gg       | available | $82.98    | —             | 90             | 82     | 6      | namecheap                                         |
