@@ -76,7 +76,7 @@ print(df.head())
 | grandslam.gg  | available | $82.98    | —             | 82             | 13     | 10     | namecheap                                         |
 | for.gg        | resell    | —         | —             | 80             | 50     | 3      | Spaceship, Inc (https://www.spaceship.com)        |
 | gay.gg        | resell    | —         | —             | 82             | 43     | 3      | West263 International Limited (http://www.363.hk) |
-| she.gg        | resell    | —         | —             | 86             | 29     | 3      | Spaceship, Inc (https://www.spaceship.com)        |
+| she.gg        | resell    | —         | —             | 86             | 28     | 3      | Spaceship, Inc (https://www.spaceship.com)        |
 | clay.gg       | resell    | —         | —             | 80             | 35     | 4      | NameCheap, Inc (https://www.namecheap.com)        |
 | make.gg       | resell    | —         | —             | 82             | 45     | 4      | NETIM (http://www.netim.com)                      |
 | after.gg      | resell    | —         | —             | 86             | 27     | 5      | Backorder Ltd (https://backorder.com)             |
