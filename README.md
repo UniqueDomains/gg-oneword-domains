@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gg one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 77,997 domains · **Median ask:** $82.08 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/gg`  
 **Best for:** founders, investors, studios
 
@@ -80,7 +80,7 @@ print(df.head())
 | clay.gg       | resell    | —         | —             | 80             | 35     | 4      | NameCheap, Inc (https://www.namecheap.com)        |
 | make.gg       | resell    | —         | —             | 82             | 45     | 4      | NETIM (http://www.netim.com)                      |
 | after.gg      | resell    | —         | —             | 86             | 27     | 5      | Backorder Ltd (https://backorder.com)             |
-| popup.gg      | resell    | —         | —             | 84             | 29     | 6      | Dynadot Inc. (https://www.dynadot.com)            |
+| popup.gg      | resell    | —         | —             | 84             | 28     | 6      | Dynadot Inc. (https://www.dynadot.com)            |
 | fashion.gg    | resell    | —         | —             | 80             | 41     | 7      | Dynadot Inc. (https://www.dynadot.com)            |
 | Friends.gg    | resell    | —         | —             | 82             | 37     | 7      | Spaceship, Inc (https://www.spaceship.com)        |
 | fanclub.gg    | resell    | —         | —             | 84             | 20     | 8      | Enrapture Limited (https://enrapture.gg)          |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GG One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GG One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
