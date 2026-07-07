@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .gg one-word domains from U
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **77,997 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 77,997 domains · **Median ask:** $82.08 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 77,997 domains · **Median ask:** $82.74 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/gg`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/gg`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .GG one-word domain ca
 
 ### Files
 
-- `gg.csv` — public CSV extract (1,000 rows)
-- `gg.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `gg.csv`, public CSV extract (1,000 rows)
+- `gg.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                         |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------- |
-| pinch.gg      | available | $82.98    | —             | 80             | 18     | 5      | namecheap                                         |
-| laugh.gg      | premium   | —         | —             | 86             | 14     | 5      | —                                                 |
-| jewels.gg     | available | $82.98    | —             | 80             | 15     | 6      | namecheap                                         |
-| recipe.gg     | available | $82.98    | —             | 82             | 26     | 6      | namecheap                                         |
-| Adidas.gg     | available | $82.98    | —             | 88             | 24     | 6      | namecheap                                         |
-| iPhone.gg     | available | $82.98    | —             | 90             | 83     | 6      | namecheap                                         |
-| pretzel.gg    | available | $82.98    | —             | 80             | 16     | 7      | namecheap                                         |
-| QandA.gg      | available | $82.98    | —             | 80             | 10     | 7      | namecheap                                         |
-| retirement.gg | available | $82.98    | —             | 80             | 23     | 10     | namecheap                                         |
-| grandslam.gg  | available | $82.98    | —             | 82             | 13     | 10     | namecheap                                         |
-| for.gg        | resell    | —         | —             | 80             | 50     | 3      | Spaceship, Inc (https://www.spaceship.com)        |
-| gay.gg        | resell    | —         | —             | 82             | 43     | 3      | West263 International Limited (http://www.363.hk) |
-| she.gg        | resell    | —         | —             | 86             | 28     | 3      | Spaceship, Inc (https://www.spaceship.com)        |
-| clay.gg       | resell    | —         | —             | 80             | 35     | 4      | NameCheap, Inc (https://www.namecheap.com)        |
-| make.gg       | resell    | —         | —             | 82             | 45     | 4      | NETIM (http://www.netim.com)                      |
-| after.gg      | resell    | —         | —             | 86             | 27     | 5      | Backorder Ltd (https://backorder.com)             |
-| popup.gg      | resell    | —         | —             | 84             | 28     | 6      | Dynadot Inc. (https://www.dynadot.com)            |
-| fashion.gg    | resell    | —         | —             | 80             | 41     | 7      | Dynadot Inc. (https://www.dynadot.com)            |
-| Friends.gg    | resell    | —         | —             | 82             | 37     | 7      | Spaceship, Inc (https://www.spaceship.com)        |
-| fanclub.gg    | resell    | —         | —             | 84             | 20     | 8      | Enrapture Limited (https://enrapture.gg)          |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                             |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------------------------- |
+| bead.gg   | available | $82.98    | —             | high           | low    | 4      | namecheap                                             |
+| ccc.gg    | resell    | —         | —             | medium         | low    | 3      | West263 International Limited (http://www.west263.hk) |
+| Guys.gg   | available | $82.98    | —             | medium         | low    | 4      | namecheap                                             |
+| call.gg   | resell    | —         | —             | high           | low    | 4      | Chang Wen Ling t/a private.tw (http://www.private.tw) |
+| eaten.gg  | available | $82.98    | —             | high           | low    | 5      | namecheap                                             |
+| find.gg   | resell    | —         | —             | high           | medium | 4      | 1API (http://www.1api.net)                            |
+| mount.gg  | available | $82.98    | —             | medium         | low    | 5      | namecheap                                             |
+| gulf.gg   | resell    | —         | —             | medium         | low    | 4      | West263 International Limited (http://www.363.hk)     |
+| terms.gg  | available | $82.98    | —             | high           | low    | 5      | namecheap                                             |
+| hall.gg   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc. (https://www.dynadot.com)                |
+| equals.gg | available | $82.98    | —             | medium         | low    | 6      | namecheap                                             |
+| indy.gg   | resell    | —         | —             | high           | high   | 4      | Porkbun LLC (https://porkbun.com/)                    |
+| lisbon.gg | available | $82.98    | —             | high           | low    | 6      | namecheap                                             |
+| mind.gg   | resell    | —         | —             | high           | high   | 4      | 1API (http://www.1api.net)                            |
+| nearly.gg | available | $82.98    | —             | high           | low    | 6      | namecheap                                             |
+| taxi.gg   | resell    | —         | —             | high           | high   | 4      | Spaceship, Inc (https://www.spaceship.com)            |
+| niches.gg | available | $82.98    | —             | low            | low    | 6      | namecheap                                             |
+| tide.gg   | resell    | —         | —             | high           | low    | 4      | Enrapture Limited (https://enrapture.gg)              |
+| polled.gg | available | $82.98    | —             | medium         | low    | 6      | namecheap                                             |
+| cosmo.gg  | resell    | —         | —             | medium         | high   | 5      | Dynadot Inc. (https://www.dynadot.com)                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These .gg domains span several naming styles. Some are short and memorable, such as pinch.gg, laugh.gg, she.gg, and jewels.gg. Others are broad keyword terms like retirement.gg or ultra-short function words like for.gg. This mix matters because .gg buyers usually need to weigh memorability against specificity and legal risk. When comparing these domains, start with whether the term is clean and ownable, then check ask price against how strong the word is on recall and commercial use. Be cautious with names that match famous brands or products, including Adidas.gg and iPhone.gg, because trademark risk is clear even if the string looks attractive.
+This is a curated view of one-word .GG domain names, spanning everyday nouns, short brandable terms, and niche coined words. Names like fashion.gg, pretzel.gg, pinch.gg, and clay.gg show the range: familiar dictionary words paired with a short, globally recognized extension. Across this set of nearly 78,000 domains, the median asking price sits near $83, making single-word .GG names accessible for both quick brand launches and longer-term portfolio picks. Whether the goal is an ownable name for a new product or a well-priced addition to a domain portfolio, comparing word quality, length, and asking price across this list helps narrow the options quickly.
 
-- 77,982 .gg domains in this selection
-- Median ask across the set is 82.07
-- Short words can be memorable but not always ownable
-- Famous brand terms carry obvious trademark risk
+- 77,997 one-word .GG domain names in this selection
+- Median asking price near $83 across the set
+- Includes everyday words: fashion.gg, pinch.gg, clay.gg
+- Short, memorable domains suited for global brands
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GG One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GG One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
