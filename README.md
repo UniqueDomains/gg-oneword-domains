@@ -1,10 +1,10 @@
-# Available .GG One-Word Domains (77,997)
+# Available .GG One-Word Domains (78,014)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-77%2C997%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-78%2C014%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .gg one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **77,997 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **78,014 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 77,997 domains · **Median ask:** $82.74 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 78,014 domains · **Median ask:** $80.81 · **High-demand under $2,500:** 345
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/gg`
 **Best for:** founders, investors, studios
 
@@ -65,24 +65,24 @@ print(df.head())
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                             |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------------------------- |
 | bead.gg   | available | $82.98    | —             | high           | low    | 4      | namecheap                                             |
-| ccc.gg    | resell    | —         | —             | medium         | low    | 3      | West263 International Limited (http://www.west263.hk) |
+| ccc.gg    | resell    | —         | —             | low            | medium | 3      | West263 International Limited (http://www.363.hk)     |
 | Guys.gg   | available | $82.98    | —             | medium         | low    | 4      | namecheap                                             |
 | call.gg   | resell    | —         | —             | high           | low    | 4      | Chang Wen Ling t/a private.tw (http://www.private.tw) |
-| eaten.gg  | available | $82.98    | —             | high           | low    | 5      | namecheap                                             |
+| aloof.gg  | available | $68.98    | $82.98        | low            | low    | 5      | namecheap                                             |
 | find.gg   | resell    | —         | —             | high           | medium | 4      | 1API (http://www.1api.net)                            |
-| mount.gg  | available | $82.98    | —             | medium         | low    | 5      | namecheap                                             |
+| eaten.gg  | available | $82.98    | —             | high           | low    | 5      | namecheap                                             |
 | gulf.gg   | resell    | —         | —             | medium         | low    | 4      | West263 International Limited (http://www.363.hk)     |
-| terms.gg  | available | $82.98    | —             | high           | low    | 5      | namecheap                                             |
+| mount.gg  | available | $82.98    | —             | medium         | low    | 5      | namecheap                                             |
 | hall.gg   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc. (https://www.dynadot.com)                |
-| equals.gg | available | $82.98    | —             | medium         | low    | 6      | namecheap                                             |
+| terms.gg  | available | $82.98    | —             | high           | low    | 5      | namecheap                                             |
 | indy.gg   | resell    | —         | —             | high           | high   | 4      | Porkbun LLC (https://porkbun.com/)                    |
-| lisbon.gg | available | $82.98    | —             | high           | low    | 6      | namecheap                                             |
+| xxvii.gg  | available | $68.98    | $82.98        | low            | low    | 5      | namecheap                                             |
 | mind.gg   | resell    | —         | —             | high           | high   | 4      | 1API (http://www.1api.net)                            |
-| nearly.gg | available | $82.98    | —             | high           | low    | 6      | namecheap                                             |
+| equals.gg | available | $82.98    | —             | medium         | low    | 6      | namecheap                                             |
 | taxi.gg   | resell    | —         | —             | high           | high   | 4      | Spaceship, Inc (https://www.spaceship.com)            |
-| niches.gg | available | $82.98    | —             | low            | low    | 6      | namecheap                                             |
+| lisbon.gg | available | $82.98    | —             | high           | low    | 6      | namecheap                                             |
 | tide.gg   | resell    | —         | —             | high           | low    | 4      | Enrapture Limited (https://enrapture.gg)              |
-| polled.gg | available | $82.98    | —             | medium         | low    | 6      | namecheap                                             |
+| lxxxii.gg | available | $68.98    | $82.98        | low            | low    | 6      | namecheap                                             |
 | cosmo.gg  | resell    | —         | —             | medium         | high   | 5      | Dynadot Inc. (https://www.dynadot.com)                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 77,997 live domains                        |
+| 1,000-row public sample | 78,014 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 345 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GG One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GG One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
