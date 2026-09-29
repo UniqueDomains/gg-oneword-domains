@@ -33,6 +33,7 @@ fabc2c83-6597-4a14-911d-fd64029d7422,succor.gg,available,,,high,high,6,,,,
 011fc09a-df5f-4326-8feb-69d97d9fd9a8,tuff.gg,resell,,,high,high,4,"humbly, LLC (http://park.io)",,,26/09/2026 09:48
 be78ef01-14b0-42eb-9eaf-f47b49c8fe05,ruled.gg,available,68.98,82.98,high,low,5,namecheap,,,27/09/2026 16:50
 3ac8814e-a764-4ec0-897c-c5beec61e36b,stabilify.gg,available,,,high,high,9,,,,
+b6b52efb-d0f4-4086-a151-0ba10c0fa746,job.gg,resell,,,high,medium,3,,,,29/09/2026 03:34
 42e12f2e-aa47-409a-a79d-dca83c616c49,bonobo.gg,available,,,high,high,6,,,,
 facb7437-0c11-4f87-94e0-0d634da32979,vhr.gg,available,,,high,high,3,,,,
 3eac311c-ece3-43be-a261-93694faf49b2,artistically.gg,available,,,high,medium,12,,,,
@@ -55,7 +56,6 @@ f46421e2-6ed2-45d4-b19c-c714035f8c22,wheaton.gg,available,51.6,51.6,high,low,7,s
 44bd0d2d-d5e2-44a7-af73-8c2f51aeed40,modifiable.gg,available,68.98,82.98,high,low,10,namecheap,,,25/08/2026 03:12
 590cf907-1348-46ff-87fd-f57d74ae8ee7,kinning.gg,available,,,high,high,7,,,,
 45793d2f-af10-4168-ba51-66256b08aadc,megacity.gg,available,,,high,high,8,,,,
-bfdb4ce4-98f7-495a-8161-ce49e8009d95,drank.gg,available,,,high,high,5,,,,
 37ee8e54-ead4-4a7a-8ce1-ef211d64fa1a,stabilise.gg,available,,,high,high,9,,,,
 af618eb6-80b3-45df-89bc-dbdaf08abf0b,honegger.gg,available,68.98,82.98,high,low,8,namecheap,,,20/09/2026 10:55
 df7e3c95-7697-4134-9167-d739983a2896,lawful.gg,available,68.98,82.98,high,low,6,namecheap,,,22/08/2026 21:21
@@ -101,7 +101,7 @@ f16e77d8-6f9e-4891-9a09-d62ee8efe60b,monsters.gg,resell,,,high,medium,8,,,,27/09
 e00318e5-be8e-40dc-bdc7-18f7285ee4be,horsecraft.gg,available,,,high,low,10,,,,
 a5182315-7cf5-4056-b8e9-68c833194fc9,middens.gg,available,,,medium,low,7,,,,
 819d1848-0721-4bce-85a5-92d588069e25,velocity.gg,resell,,,high,low,8,GoDaddy.com LLC (https://www.godaddy.com),,,26/09/2026 09:57
-f65c4e93-c12d-49ad-80a8-750a3ce52bf0,affiliate.gg,resell,,,high,low,9,Enrapture Limited (https://enrapture.gg),,,26/09/2026 01:25
+f65c4e93-c12d-49ad-80a8-750a3ce52bf0,affiliate.gg,resell,,,high,low,9,Enrapture Limited (https://enrapture.gg),,,28/09/2026 19:17
 1754bc75-81f6-436d-84b6-49f5a224a697,valse.gg,available,,,high,medium,5,,,,
 af423b89-5e2c-4d58-92f1-974458a8d3d1,sass.gg,available,68.98,82.98,high,low,4,namecheap,,,21/09/2026 14:47
 165900ca-e01e-423a-8c57-cb0503587335,renderer.gg,available,,,high,high,8,,,,
@@ -155,7 +155,7 @@ f3580d02-e430-4696-a7b2-f5e8734145f7,hiyo.gg,available,51.8,51.8,high,high,4,por
 c36e201a-fa52-4b26-b7b9-ba15c32baa55,katelynn.gg,available,,,high,medium,8,,,,
 a6be9ac4-f72f-4b52-9b87-05313c5b7c13,skateboard.gg,available,,,high,high,10,,,,
 3fb1639e-62dd-4b7f-8bb0-2d3703e90b08,apostolic.gg,available,68.98,82.98,high,low,9,namecheap,,,06/08/2026 04:04
-b7676caf-58b2-4d04-b1ee-91e720d6b62e,oxfordshire.gg,available,,,high,high,11,,,,
+b7676caf-58b2-4d04-b1ee-91e720d6b62e,oxfordshire.gg,available,51.6,51.6,high,low,11,spaceship,,,29/09/2026 03:45
 62b3cabd-4c02-4418-ba6b-4e142db63a09,torrential.gg,available,68.98,82.98,high,low,10,namecheap,,,11/09/2026 17:57
 b0bc996a-c59e-408f-90f9-ccd768761470,transistor.gg,available,,,high,high,10,,,,
 42d11bd2-f118-44c4-9515-009a64899f97,derriere.gg,available,68.98,82.98,medium,low,8,namecheap,,,09/08/2026 11:55
@@ -229,6 +229,7 @@ e4737dd9-2822-492b-8d81-9d7741a575b6,busk.gg,available,,,high,high,4,,,,
 1412e1f5-fc51-4ae9-acfd-5e792c171ada,finialled.gg,available,,,medium,low,9,,,,
 f69007fe-2fd2-44fc-83a5-641197aafda7,pecan.gg,available,,,high,high,5,,,,
 4b4bcf6d-bcea-4154-9e56-8d704dac8553,during.gg,available,82.98,,high,low,6,namecheap,,,
+f5a0452d-f127-4acc-b214-07a45e65ce48,aquino.gg,available,51.6,51.6,medium,low,6,spaceship,,,28/09/2026 22:09
 4ce22eab-4ead-4f5a-99f6-b86c04aaa3ec,cliquish.gg,available,68.98,82.98,medium,low,8,namecheap,,,12/08/2026 11:17
 d1c43080-2222-40f4-8154-85da9465d1b7,shareholder.gg,available,,,high,high,11,,,,
 86fb6f6c-2ce3-4fee-8b03-d435dcf1a267,stereoscopic.gg,available,,,high,high,12,,,,
@@ -236,13 +237,14 @@ d1c43080-2222-40f4-8154-85da9465d1b7,shareholder.gg,available,,,high,high,11,,,,
 6ca66f95-2917-4fee-bdc1-f88d922035ed,silvester.gg,available,,,high,high,9,,,,
 96be73f1-676a-4ccb-8466-975fec447e74,moldavian.gg,available,,,high,high,9,,,,
 b40e4ba1-fdd5-4310-916a-50779bff933e,trifling.gg,available,68.98,82.98,high,low,8,namecheap,,,05/09/2026 00:21
-fd7c766c-b7f9-449f-ba4f-59f0030c4623,foreigners.gg,available,,,high,low,10,,,,
+fd7c766c-b7f9-449f-ba4f-59f0030c4623,foreigners.gg,available,53.5,53.5,low,low,10,dynadot,,,28/09/2026 23:22
 1cf7a40f-d6b7-4936-9d32-747c3f9455c0,guilty.gg,available,68.98,82.98,high,low,6,namecheap,,,20/08/2026 20:50
 d7731c8c-b0ac-4508-9dcd-fc3cfbc981a9,eritrean.gg,available,68.98,82.98,high,low,8,namecheap,,,17/08/2026 12:22
 2c994de3-49c0-484b-ab21-f29f68aacf79,hvac.gg,available,,,high,medium,4,,,,
 0dcb8156-989c-4cc1-8610-5d188a0a10d3,absorber.gg,available,68.98,82.98,high,low,8,namecheap,,,16/09/2026 18:17
+5e3a36e3-b2e8-4e14-84b2-7889ff517e1a,langdon.gg,available,51.6,51.6,medium,low,7,spaceship,,,28/09/2026 16:35
 3d05136e-697c-4746-a1f2-4d13316a8ae4,unlatched.gg,available,68.98,82.98,medium,low,9,namecheap,,,12/09/2026 01:38
-a6cbcca8-e6b0-4266-aded-bda38ade9967,touchdown.gg,resell,,,high,high,9,Docky Company (https://docky.ly),,,26/09/2026 09:41
+a6cbcca8-e6b0-4266-aded-bda38ade9967,touchdown.gg,resell,,,high,low,9,Docky Company (https://docky.ly),,,28/09/2026 20:40
 16fa9625-de2c-41a9-9b3d-7f0e2c868236,nonno.gg,available,,,high,high,5,,,,
 d139ed27-cc42-4ff0-84cf-c84d61c8a870,backshop.gg,available,,,high,high,9,,,,
 d823400f-5fa9-4b3e-90d6-b0bbd6c0c1ad,pyle.gg,available,,,high,high,4,,,,
@@ -255,7 +257,7 @@ a17ddbd8-34db-432e-8de2-386c23bbc5b3,allotment.gg,available,68.98,82.98,high,low
 abe8124c-4596-4ac1-b9bb-624fa73f1dc0,concordance.gg,available,,,high,high,11,,,,
 ae4edbc2-5ead-49f7-bfe4-6645f3b7b719,skype.gg,available,68.98,82.98,high,medium,5,namecheap,,,27/09/2026 05:19
 ed10bb6d-388d-4ee6-b7b5-838e9650209a,tattooed.gg,available,,,high,high,8,,,,
-e5527ce3-f5fc-4283-8374-501e65ed7817,cio.gg,available,,,high,high,3,,,,
+e5527ce3-f5fc-4283-8374-501e65ed7817,cio.gg,available,68.98,82.98,high,low,3,namecheap,,,28/09/2026 18:44
 18a38799-3095-44f3-9ab6-2ca4f6e1fa94,blissful.gg,available,68.98,82.98,high,low,8,namecheap,,,10/08/2026 14:33
 b8d727e6-8f11-47c1-b466-4ebb6c01c3b4,modal.gg,resell,,,high,low,5,Dynadot Inc. (https://www.dynadot.com),,,26/09/2026 07:35
 1f1f7cb3-88de-46a9-9753-975de0466c76,dushanbe.gg,available,,,high,high,8,,,,
@@ -281,7 +283,7 @@ c0c47dcf-604e-4cbf-8e58-feb8bd7edf6c,ahab.gg,available,68.98,82.98,high,low,4,na
 1e6729a0-c50d-4d22-ba19-131eafbc2e3e,salon.gg,resell,,,high,low,5,GoDaddy.com LLC (https://www.godaddy.com),,,26/09/2026 08:47
 f0e090f7-1ccd-4799-acfd-08927fb011f5,rockbound.gg,available,68.98,82.98,high,low,9,namecheap,,,09/09/2026 18:10
 3d14d065-ef8d-431f-9eff-b213eb37a99a,welterweight.gg,available,,,high,high,12,,,,
-71a8ac6b-1200-468a-9e47-b04382798f6b,testament.gg,available,68.98,82.98,high,high,9,namecheap,,,27/09/2026 05:20
+71a8ac6b-1200-468a-9e47-b04382798f6b,testament.gg,available,51.6,51.6,high,low,9,spaceship,,,28/09/2026 20:37
 8814972c-51f3-4665-a24e-bd7290245c76,aloofly.gg,available,,,high,high,7,,,,
 5b9e9fcb-67bc-44b0-9fbe-8189baf67e11,schoolroom.gg,available,,,high,medium,10,,,,
 a9943f2e-528f-4918-bf15-55866ee88303,waked.gg,available,,,high,high,5,,,,
@@ -293,7 +295,7 @@ fe483706-0521-47d5-a701-6f37c0661745,contraception.gg,available,,,high,medium,13
 4d789523-cb4e-47ee-a448-1468e8d5f30b,paper.gg,resell,,,high,low,5,Dynadot Inc. (https://www.dynadot.com),,,26/09/2026 08:01
 e783c28d-6190-4f33-bea4-01c97e3d303f,hamburgeria.gg,available,,,high,high,11,,,,
 7bd4e715-bd2d-452a-a22c-0c7719bd315a,tung.gg,available,68.98,82.98,high,low,4,namecheap,,,18/09/2026 05:36
-51db7914-512a-462a-b44a-c312f0274d8a,impose.gg,available,,,high,high,6,,,,
+51db7914-512a-462a-b44a-c312f0274d8a,impose.gg,available,68.98,82.98,medium,low,6,namecheap,,,28/09/2026 10:13
 24926e70-51a3-4e78-97a0-ad82ec72a668,minestrone.gg,available,,,high,high,10,,,,
 0b94d2ff-1e51-410a-b570-1d0384f8560e,intimacy.gg,available,68.98,82.98,high,low,8,namecheap,,,17/09/2026 14:02
 faf6a2d7-162f-4c53-96a9-a4b423ec69cf,unfed.gg,available,68.98,82.98,medium,low,5,namecheap,,,12/09/2026 10:04
@@ -302,7 +304,7 @@ fb373046-2888-4097-93b1-543ec4733ed2,researcher.gg,available,68.98,82.98,high,lo
 46b62bbb-0539-4575-9737-e057e45e7aaa,mitsubishi.gg,available,68.98,82.98,high,high,10,namecheap,,,27/09/2026 07:04
 33d53a93-9111-4a37-9c05-ed9a446dca0e,birdsong.gg,available,68.98,82.98,high,low,8,namecheap,,,23/09/2026 20:37
 6b7e035d-51c4-404a-9958-874b52c55f72,unveils.gg,available,,,medium,low,7,,,,
-81acf1e6-cf77-4b51-b451-0053d2522298,massachusetts.gg,available,,,high,high,13,,,,
+81acf1e6-cf77-4b51-b451-0053d2522298,massachusetts.gg,available,51.6,51.6,medium,low,13,spaceship,,,28/09/2026 11:48
 d6175db9-2251-4b3f-8e5f-725617ac78c9,credulous.gg,available,68.98,82.98,high,low,9,namecheap,,,13/08/2026 05:56
 16b379c9-c846-454d-ad27-65c812a3e721,gravitational.gg,available,,,high,high,13,,,,
 d194be0b-8a4d-4c54-a03c-997be6ebcac7,outposts.gg,available,,,high,medium,8,,,,
@@ -339,7 +341,7 @@ b6d18ff8-142a-44bd-ba92-fd3e677e058b,franchise.gg,resell,,,high,low,9,Dynadot In
 f1cbee5a-7702-459b-9be0-7c23057d407f,yeasty.gg,available,68.98,82.98,medium,low,6,namecheap,,,08/08/2026 19:56
 511b405c-6d15-43f9-ad5f-6caa51437a19,distinguishing.gg,available,,,high,high,14,,,,
 641f3306-22d1-49f5-906a-098669c7808e,collars.gg,available,68.98,82.98,high,low,7,namecheap,,,20/09/2026 09:10
-e612c8b9-ecd1-4f50-83d3-e3205fd717eb,informant.gg,available,,,high,high,9,,,,
+e612c8b9-ecd1-4f50-83d3-e3205fd717eb,informant.gg,available,53.5,53.5,medium,low,9,dynadot,,,28/09/2026 14:31
 a8551bb4-507a-437e-a73b-4dd06759b745,grandkids.gg,available,68.98,82.98,high,low,9,namecheap,,,19/09/2026 23:28
 0b569801-9e4a-483a-bcc4-1dfe6f3ad420,barque.gg,available,68.98,82.98,high,low,6,namecheap,,,22/09/2026 07:48
 86c05dd5-308f-4d6a-8407-f492c9dada17,farther.gg,available,129.99,129.99,high,low,7,name.com,,,24/09/2026 17:01
@@ -347,7 +349,7 @@ a8551bb4-507a-437e-a73b-4dd06759b745,grandkids.gg,available,68.98,82.98,high,low
 63847a33-a520-4479-bf7b-d8ca16519341,deficit.gg,available,82.98,,high,low,7,namecheap,,,
 789944c2-575d-4588-a499-edae70cd4803,fisherfolk.gg,available,,,high,low,10,,,,
 f2218114-cff9-4628-8a79-f6ab6c9e7447,listless.gg,available,68.98,82.98,medium,low,8,namecheap,,,14/08/2026 12:00
-89ae4ebe-ff55-4588-a9ea-522160d1168c,fingerprints.gg,available,,,high,medium,12,,,,
+89ae4ebe-ff55-4588-a9ea-522160d1168c,fingerprints.gg,available,68.98,82.98,medium,low,12,namecheap,,,28/09/2026 13:26
 2e3f8583-117d-40d5-980f-1fb438016bef,barbell.gg,available,68.98,82.98,high,low,7,namecheap,,,22/09/2026 04:49
 ae5e6a9f-9456-4ea0-946d-00947cb12e08,nodding.gg,available,68.98,82.98,high,low,7,namecheap,,,12/08/2026 00:48
 2eb345fb-0755-4e84-ae55-77c08bf700c8,fidgeter.gg,available,,,high,high,8,,,,
@@ -373,6 +375,7 @@ d37ed3fc-891e-41e4-af21-21133271dc4f,pluton.gg,available,68.98,82.98,high,low,6,
 8976d9c1-bacb-4836-9e2b-c9b41e681565,marconi.gg,available,68.98,82.98,high,high,7,namecheap,,,27/09/2026 05:50
 3ad81230-82b7-4b75-8fd1-cd8c3c42b558,whatcha.gg,available,,,high,low,7,,,,
 8605ea41-63ae-4bec-aa98-4bd35cd7e5d5,angelina.gg,available,68.98,82.98,high,high,8,namecheap,,,27/09/2026 06:05
+c2890df7-e4f7-4375-a58b-3230e3cff2ff,assaulted.gg,available,53.5,53.5,low,low,9,dynadot,,,28/09/2026 18:18
 4e58b9bf-93df-407b-98aa-76e2fdc9a932,behaviour.gg,available,68.98,82.98,high,low,9,namecheap,,,23/09/2026 03:08
 d236b316-2ca2-49df-8b08-fc286617fdc2,impertinent.gg,available,,,high,high,11,,,,
 6d0aa0bc-8373-4c37-a538-3313d2057df1,catamountain.gg,available,,,high,high,14,,,,
@@ -382,6 +385,7 @@ a215c864-cb34-4b43-ab26-58f1e8ef06e6,necessarily.gg,available,82.98,,high,low,11
 71f83109-7e13-4b11-882d-5a5983b8908c,organ.gg,available,82.98,,high,low,5,namecheap,,,
 1b2ae1c7-40fb-4f99-9dc6-94c262e6988d,clutches.gg,available,,,high,medium,8,,,,
 85ed6507-6a4d-41aa-bcc2-a36ebfde8ea5,cudighis.gg,available,,,medium,low,8,,,,
+04fb21d9-26af-4a9f-8007-7d89325e57f1,karlsruhe.gg,available,51.8,51.8,medium,low,9,porkbun,,,28/09/2026 12:19
 b0bf47be-1e77-4159-924a-d92a0f716dfb,ministrant.gg,available,68.98,82.98,medium,low,10,namecheap,,,24/08/2026 23:57
 9191f31b-2c9d-42d7-a98c-d7d997ec84b5,advisedly.gg,available,68.98,82.98,medium,low,9,namecheap,,,13/09/2026 17:38
 dced1577-52af-4bc8-8b11-dc16df0422d1,coz.gg,available,,,high,high,3,,,,
@@ -399,6 +403,7 @@ bb7615bc-a3b8-4ce1-ac71-215e197e93a3,anticline.gg,available,,,high,high,9,,,,
 d25236d5-ef8c-4387-b356-9a46c9cb70da,cagey.gg,available,68.98,82.98,high,low,5,namecheap,,,11/08/2026 13:19
 e97988b6-151e-46eb-aa2b-84a51b60da82,consultation.gg,available,82.98,,high,high,12,namecheap,,,
 57f864cf-faff-4b13-9369-065c88996dee,austrians.gg,available,,,high,low,9,,,,
+dbf752b7-38e0-478c-9d45-c56d818de501,psychiatric.gg,available,51.6,51.6,medium,low,11,spaceship,,,28/09/2026 15:58
 f429f2fa-4535-41f7-a583-04c1dfceb1da,semiabstract.gg,available,,,high,high,12,,,,
 77bc6ca9-1819-4883-bdf5-2be11cf03ec7,barbican.gg,available,68.98,82.98,high,low,8,namecheap,,,22/09/2026 04:18
 60a924fa-98b8-4f1e-b723-5b271be42e30,clayware.gg,available,,,high,high,8,,,,
@@ -417,6 +422,8 @@ d1308dbd-f653-445e-9402-3ac91b2032e6,capacitor.gg,available,,,high,high,9,,,,
 14e4fbc4-99f9-4afa-9b89-65aa734ff09d,midst.gg,available,68.98,82.98,high,low,5,namecheap,,,11/09/2026 13:11
 05338949-6d21-447c-ba2c-78eb8a0fb8be,bifacial.gg,available,68.98,82.98,high,low,8,namecheap,,,09/08/2026 19:57
 3fc6aa26-9f79-471b-af53-39d6f58f935d,cablelike.gg,available,,,high,high,9,,,,
+856947bd-de40-4b54-afa6-0e14f29cb67a,intrusion.gg,available,68.98,82.98,medium,low,9,namecheap,,,29/09/2026 00:48
+6fbc40e3-3f66-44cf-993b-9fcd74240c7a,gresham.gg,available,51.6,51.6,medium,low,7,spaceship,,,29/09/2026 01:08
 bd6af5aa-2388-4ed0-b7d9-f2e4014aa0d2,dodgy.gg,available,68.98,82.98,high,low,5,namecheap,,,12/08/2026 01:46
 a21d4ef6-5f11-4b88-97f8-9047fee8d3bf,giselle.gg,available,,,high,high,7,,,,
 4900a992-f8ec-42ca-a6ae-6640da10bde0,chancel.gg,available,68.98,82.98,high,low,7,namecheap,,,23/09/2026 07:13
@@ -437,7 +444,6 @@ f48991cf-0b52-434d-ad0d-cb38056090d4,tetley.gg,available,,,high,high,6,,,,
 7112d817-b55b-491b-aa4c-5e8fbedef4d6,jessa.gg,available,,,high,high,5,,,,
 901bc9b8-b808-4e14-af0c-1c7b7d075950,inhalation.gg,available,,,high,high,10,,,,
 b2b29d0d-a5d0-4948-a686-cab3f50642c9,boxcar.gg,available,,,high,high,6,,,,
-d03932d0-3715-40b5-98e7-e184780829e9,saves.gg,available,,,high,medium,5,,,,
 5e74570a-11ed-4f2a-8af3-8b8e300b29ac,expressive.gg,available,68.98,82.98,high,low,10,namecheap,,,17/08/2026 18:50
 e4ab0c51-4c28-4b96-95b4-90cf7c564d19,harlot.gg,available,129.99,129.99,high,low,6,name.com,,,13/08/2026 14:19
 72cdd6d4-c324-4ceb-9e04-5425733983ee,tinned.gg,available,68.98,82.98,high,low,6,namecheap,,,11/09/2026 16:17
@@ -451,6 +457,7 @@ b75249eb-f499-4c38-9cca-02ce87e4fa78,lettercard.gg,available,,,high,high,10,,,,
 318e5ab3-656b-4028-818c-c6f05ff9c714,gladiatrix.gg,available,,,high,low,10,,,,
 b694762e-f8fe-455a-b888-e3341422dee1,schoolmate.gg,available,,,high,high,10,,,,
 e212f53f-219f-4af6-ac32-80aaa92dd7ce,workdays.gg,available,,,high,low,8,,,,
+c1a51a3d-5bf5-4e14-882e-fc2bbf43bd73,enrico.gg,available,51.6,51.6,medium,low,6,spaceship,,,28/09/2026 13:31
 89d6283e-9ea6-4304-be0c-012e7a978cc0,flatly.gg,available,68.98,82.98,high,low,6,namecheap,,,14/09/2026 05:29
 20de88a7-b1d3-477c-b850-27fbc9478595,woozy.gg,available,68.98,82.98,medium,low,5,namecheap,,,14/08/2026 14:06
 72d2bd1b-9a9d-47ef-bc4c-ff99da89a8d5,wellerism.gg,available,,,high,high,9,,,,
@@ -480,6 +487,7 @@ cc4143bd-8032-4223-b942-576272f88a8c,slipping.gg,available,68.98,82.98,high,low,
 93caa0b5-6f7b-4186-9513-f4e5ef3b683d,baselined.gg,available,,,medium,low,9,,,,
 1aedf0b9-0020-4e6e-ac5b-db7c3d6bed27,odessa.gg,available,,,high,high,6,,,,
 ee1c8ff4-7166-4c4e-9344-c7d520af8060,housework.gg,available,,,high,high,9,,,,
+c73567d9-fbb1-469c-ae8d-dde88d5a1abe,falkland.gg,available,51.6,51.6,high,low,8,spaceship,,,28/09/2026 12:09
 0c63eddb-684f-49d1-8417-b7dcdb23b59a,hardcover.gg,available,68.98,82.98,high,low,9,namecheap,,,21/08/2026 00:44
 b4a5dd09-921b-49fc-9ba4-8dcbd7e3a062,ribulose.gg,available,,,high,low,8,,,,
 fd61c5c9-53f7-4a6e-a62c-065cd3b86fea,unopened.gg,available,68.98,82.98,high,low,8,namecheap,,,12/09/2026 16:14
@@ -492,7 +500,7 @@ e4b05d9a-7c10-428f-98a1-408cefd73952,whenby.gg,available,,,high,high,6,,,,
 2772b6f7-6c4b-4f0a-8545-661ab866ee15,forging.gg,available,51.6,51.6,high,high,7,spaceship,,,28/09/2026 02:18
 237c3cf4-0b3d-4f72-adad-949fb4d7a99e,wheelwork.gg,available,,,high,high,9,,,,
 d9bd3eff-e195-4afe-99d7-95dc8a24a265,wiseness.gg,available,,,high,high,8,,,,
-e40e820c-b627-4472-997b-3f55a7da1e9a,presidents.gg,available,,,high,low,10,,,,
+e40e820c-b627-4472-997b-3f55a7da1e9a,presidents.gg,available,51.6,51.6,medium,low,10,spaceship,,,28/09/2026 23:13
 d0007d94-fd61-4600-a392-a777cfe58396,auberge.gg,available,68.98,82.98,high,low,7,namecheap,,,21/09/2026 02:29
 5b0095f2-7c38-472c-9bb0-e6a1498cdb02,hoya.gg,available,,,high,high,4,,,,
 9b490c8f-2935-443c-b464-76c50254d83f,traits.gg,available,,,high,medium,6,,,,
@@ -542,11 +550,12 @@ c9536fca-9076-4fad-8153-0be6d0f4fbd3,err.gg,available,82.98,,high,low,3,namechea
 f62a0682-281f-4fd6-95bb-a77cc2e65883,organismically.gg,available,,,high,high,14,,,,
 10985993-eb5a-4814-8e8f-15f64ff31901,dodging.gg,available,68.98,82.98,high,low,7,namecheap,,,21/09/2026 09:51
 46b45f4b-b370-4161-9c91-c1210c0b941a,interpenetration.gg,available,,,high,low,16,,,,
+469436d0-0661-445c-9a97-5d29dbae9b46,cartagena.gg,available,51.8,51.8,medium,low,9,porkbun,,,29/09/2026 00:21
 f36df3bf-826f-41df-b628-9335020d3871,aborigine.gg,available,68.98,82.98,high,low,9,namecheap,,,
 6271cf31-f897-4d75-b3cd-6d3336640876,parasails.gg,available,,,medium,low,9,,,,
 3d1cbe11-cb3e-471d-b7b9-943f3db66cbd,craggy.gg,available,68.98,82.98,medium,low,6,namecheap,,,13/08/2026 04:44
 7e9a6d4d-84bb-46b1-9888-a47399f9b787,neutraliser.gg,available,,,high,high,11,,,,
-f08b0571-5646-4bb4-9dee-8eb0197e304e,teaches.gg,available,,,high,low,7,,,,
+f08b0571-5646-4bb4-9dee-8eb0197e304e,teaches.gg,available,51.6,51.6,medium,low,7,spaceship,,,28/09/2026 08:58
 4a1a319c-59f4-49d5-ae7c-8ca92b67fa0d,astringent.gg,available,68.98,82.98,high,low,10,namecheap,,,
 d4f659c0-da93-4cc3-9a30-832d81f3fdaa,montserrat.gg,available,68.98,82.98,high,high,10,namecheap,,,27/09/2026 05:59
 89a67fde-4ed3-4dc1-9789-bbf42e9c7f42,accordant.gg,available,68.98,82.98,high,low,9,namecheap,,,
@@ -585,10 +594,11 @@ a616bfeb-ce1d-45fa-807a-6caef8b9f0dd,neoplastic.gg,available,68.98,82.98,medium,
 11951f55-a06a-4281-ac89-c0ddceb8d190,supercar.gg,available,,,high,high,8,,,,
 7f00a9e8-83c5-490c-bb46-94ace7acd463,unflawed.gg,available,68.98,82.98,high,low,8,namecheap,,,18/08/2026 07:21
 3fa04e0d-8186-4065-982e-733916cd6250,hastily.gg,available,68.98,82.98,high,low,7,namecheap,,,14/09/2026 23:06
-92095652-07b1-425a-9657-9490f8188486,functioning.gg,available,,,high,high,11,,,,
+92095652-07b1-425a-9657-9490f8188486,functioning.gg,available,53.5,53.5,medium,low,11,dynadot,,,28/09/2026 21:19
 5835a760-9599-40f9-a378-f8aead729eea,lobster.gg,resell,,,high,low,7,,,,28/09/2026 06:11
 82738061-a05e-480a-bc17-7883fd71948a,gabardines.gg,available,,,medium,low,10,,,,
 a27fc9a6-649a-4173-b821-9ef9223e83ed,egrade.gg,available,,,high,low,7,,,,
+ca2a5e37-a511-43a3-84f3-4f297997884c,ignorance.gg,available,68.98,82.98,medium,low,9,namecheap,,,28/09/2026 10:08
 30c15434-344f-496e-9f9f-c469d10e7ce6,highchair.gg,available,,,high,high,9,,,,
 8a6618cf-859b-44f8-a5bf-c5b0197307a5,reelect.gg,available,,,high,high,7,,,,
 8b51c99a-659d-4ee2-a600-bd78185a235a,kingliness.gg,available,,,high,low,10,,,,
@@ -626,6 +636,7 @@ b225d614-8396-46f7-829c-027e3a5b512c,venti.gg,available,,,high,high,5,,,,
 cb7fc3ba-7d8e-4c5b-b4a1-653983a79710,possibilism.gg,available,,,high,low,11,,,,
 d639006f-a6ad-403d-a856-472f0015099e,crudely.gg,available,68.98,82.98,medium,low,7,namecheap,,,13/09/2026 20:58
 65957b9a-f76b-4bd9-ad5b-3fd87ace9433,tolerable.gg,available,68.98,82.98,high,low,9,namecheap,,,24/09/2026 16:18
+9b6fe67e-bbe3-417e-aa3e-b8c6d0d33568,elf.gg,resell,,,high,low,3,,,,28/09/2026 13:59
 7618bc20-906e-46a9-b53b-dab94bcfb917,yield.gg,resell,,,high,low,5,Enrapture Limited (https://enrapture.gg),,,26/09/2026 10:15
 f8c52bd4-29e2-43f9-a93a-ea204cf7dbd8,verbena.gg,available,,,high,high,7,,,,
 943bbd09-faac-42a3-be31-4a4db7bfd5ee,reconciliatory.gg,available,,,high,high,14,,,,
@@ -671,10 +682,10 @@ b382c0a0-a470-4f8f-bcc9-2d8eb85a0f62,aptitude.gg,available,68.98,82.98,high,low,
 408d645c-9030-49a8-a9b4-dc03874f15e9,selfheal.gg,available,,,high,high,9,,,,
 4621a1d1-428b-46a4-ae22-d5d1674c6d31,videos.gg,resell,,,high,low,6,GoDaddy.com LLC (https://www.godaddy.com),,,28/09/2026 03:36
 b282a2aa-0b55-47df-95da-b98691128a37,valueless.gg,available,68.98,82.98,medium,low,9,namecheap,,,13/09/2026 01:01
-6a3ea519-a390-4fde-a8d5-d08a8f88d9de,recommend.gg,resell,,,high,low,9,"Spaceship, Inc (https://www.spaceship.com)",,,26/09/2026 08:32
+6a3ea519-a390-4fde-a8d5-d08a8f88d9de,recommend.gg,resell,,,high,low,9,"Spaceship, Inc (https://www.spaceship.com)",,,28/09/2026 19:07
 3106fd88-7311-4fbe-90bd-05e9e7905952,wretched.gg,available,68.98,82.98,high,low,8,namecheap,,,14/08/2026 04:09
 559ac1c7-205f-4098-935e-0973354d3ed8,scrummy.gg,available,,,high,medium,7,,,,
-3634fb84-4e42-4909-80d5-924ca6e6c0c6,barking.gg,available,,,high,high,7,,,,
+3634fb84-4e42-4909-80d5-924ca6e6c0c6,barking.gg,available,68.98,82.98,medium,low,7,namecheap,,,28/09/2026 11:18
 2089910a-8570-4f0d-a417-3e8493c591a0,inapp.gg,available,,,high,medium,6,,,,
 c28c3a77-5f04-425d-94f3-e8c8479d8f36,softness.gg,available,68.98,82.98,high,low,8,namecheap,,,21/09/2026 23:37
 246955b5-7387-44dd-8de9-1014aa531530,needleworking.gg,available,,,high,high,13,,,,
@@ -696,13 +707,13 @@ ccefad41-f6b0-4a05-8647-fe7f16ecf1b4,addulce.gg,available,,,high,high,7,,,,
 e78a9960-ba2a-4ff3-a87c-758028cbb886,birthrates.gg,available,,,medium,low,10,,,,
 b9d8e824-2ede-4f49-aae6-d64e9e878ec5,saddening.gg,available,82.98,,high,low,9,namecheap,,,
 84338e0d-7f1d-4901-b427-c6661fe85da8,demented.gg,available,68.98,82.98,high,low,8,namecheap,,,11/08/2026 01:46
+023a76c7-4432-44a0-8151-16a5cf69a7d1,founder.gg,resell,,,high,medium,7,,,,28/09/2026 13:40
 5716c4fb-7077-4c64-b226-b91fdad79cd2,bounty.gg,resell,,,high,low,6,Dynadot Inc. (https://www.dynadot.com),,,26/09/2026 04:34
 3e0677fb-82cd-48d2-b808-d27b4738c533,noodleman.gg,available,,,high,low,9,,,,
 90df327c-60f7-489e-8bf0-f4fe4390b7e3,cryonic.gg,available,68.98,82.98,high,low,7,namecheap,,,13/08/2026 09:37
 11e76e28-0dca-4192-bea9-49131d0b2b2e,inhumane.gg,available,68.98,82.98,high,low,8,namecheap,,,22/08/2026 05:17
 70967b4e-76ec-43d2-b4ad-f1ee3d765137,nanoenzyme.gg,available,,,high,high,10,,,,
 7de6bb55-ad9a-4c61-8887-54063171ea82,painlessness.gg,available,,,high,high,12,,,,
-39299e45-2dd4-4685-9b2f-78a3f4ac0864,ruins.gg,available,,,high,medium,5,,,,
 d3bd18bf-c18c-4f22-8af0-e04e9c5b1bd3,smilodon.gg,available,,,high,high,8,,,,
 b556095e-83b8-4bb3-8bd8-a6e131a2ed6e,xcvi.gg,available,68.98,82.98,medium,low,4,namecheap,,,
 c632b8e2-cbe0-4d1c-a58e-3eaf646f6622,fouquereuil.gg,available,,,high,high,11,,,,
@@ -748,7 +759,7 @@ cdcdacd4-71dd-405e-9e43-896e40525c17,schedule.gg,resell,,,high,low,8,Enrapture L
 dd5a8c53-7a10-4351-a088-24435a56cb59,dogwood.gg,available,,,high,high,7,,,,
 ce016361-05f2-4e5e-9388-1f6bc19ec5c8,balk.gg,available,68.98,82.98,medium,low,4,namecheap,,,14/08/2026 04:55
 0ed1d616-e1f5-40a1-8895-abef73639a1e,monodispersion.gg,available,,,high,high,14,,,,
-5f932579-d205-4259-8a2d-9f5ac99b5e16,resign.gg,available,,,high,high,6,,,,
+5f932579-d205-4259-8a2d-9f5ac99b5e16,resign.gg,available,51.6,51.6,high,low,6,spaceship,,,28/09/2026 11:09
 477f2b12-72f7-4ee4-b810-6677a803f42d,galega.gg,available,,,high,medium,6,,,,
 98ae956c-6ebf-4473-afe8-485b4f8a01ff,highball.gg,available,,,high,high,8,,,,
 4b19a964-9c4e-40af-b2c4-343528638f05,technology.gg,resell,,,high,low,10,Docky Company (https://docky.ly),,,28/09/2026 06:35
@@ -759,7 +770,7 @@ a2517689-be63-41d2-9c46-8a61194da274,hollywoodesque.gg,available,,,high,high,14,
 452195d1-7989-421b-a05c-85690065cd94,larger.gg,available,68.98,82.98,high,low,6,namecheap,,,22/09/2026 20:38
 340a0372-1624-4afe-a766-14d769b1589b,unshored.gg,available,,,high,low,8,,,,
 cb3b1e2c-4537-45ef-9f1a-d8fababf9813,prevents.gg,available,,,high,low,8,,,,
-54921ed8-5260-4645-a191-4872a764e410,clothes.gg,available,82.98,,high,low,7,namecheap,,,
+54921ed8-5260-4645-a191-4872a764e410,clothes.gg,available,51.6,51.6,high,low,7,spaceship,,,28/09/2026 21:50
 90f23b7c-2a2a-4666-a432-11fdd388f8bf,packet.gg,resell,,,high,low,6,Chang Wen Ling t/a private.tw (http://www.private.tw),,,26/09/2026 07:59
 0577cead-4b93-4756-b555-2780bf2b78a0,canes.gg,available,,,high,low,5,,,,
 13068287-d618-4586-bc26-91917ae454c8,creampie.gg,available,,,high,high,8,,,,
@@ -779,10 +790,12 @@ bb37fe37-52d2-462b-91bc-e8ae738fa13e,spica.gg,available,,,high,high,5,,,,
 46a48bf2-68ba-4fb5-844a-0a228b3b3c96,twisting.gg,available,68.98,82.98,high,low,8,namecheap,,,11/09/2026 21:52
 17202f18-6c2c-4633-8e63-83990aa779c2,doodling.gg,available,,,high,high,8,,,,
 8dc39bd0-c063-49db-87c5-42b668516bc6,zoosanitary.gg,available,,,medium,low,11,,,,
+55e13b5e-e3c1-4596-a48e-0a6572558b04,generate.gg,resell,,,high,low,8,,,,28/09/2026 19:12
 7aa2439d-d730-43f1-a7ae-f3f8af90edbd,leroy.gg,available,68.98,82.98,high,low,5,namecheap,,,25/09/2026 15:35
 34840c32-532d-4955-a8c4-39a61c70d4bd,airwoman.gg,available,68.98,82.98,high,low,8,namecheap,,,17/09/2026 23:25
 3e54406a-b8a8-42a5-8b38-1c59666da481,vaguely.gg,available,68.98,82.98,medium,low,7,namecheap,,,16/09/2026 10:34
 a3e780b8-0874-44e0-bb59-a991d1d613fc,wolves.gg,resell,,,high,low,6,"Spaceship, Inc (https://www.spaceship.com)",,,28/09/2026 04:21
+80fdfedc-05fd-4793-9d3b-a3822fa0aa20,revolver.gg,resell,,,high,low,8,,,,28/09/2026 20:20
 a8dc62bf-9a5f-41a6-a3ad-b49910aa1124,aspirated.gg,available,,,high,high,9,,,,
 16720980-03cf-442d-ac4f-3b73d7a59ef6,peppercorn.gg,available,,,high,high,10,,,,
 c164a3b3-1fe1-479f-8179-2ff22e6ccea8,steamroller.gg,available,,,high,high,11,,,,
@@ -796,6 +809,7 @@ b920c504-4509-4697-b638-1d17d5b4a8b3,impartially.gg,available,,,high,high,11,,,,
 8548be2b-e3be-4577-b7d8-7278145f1c39,fastening.gg,available,,,high,high,9,,,,
 99308b9b-ebd7-4f54-8686-dae1b671d12f,recapitalize.gg,available,,,high,high,12,,,,
 303b7c10-32d4-4370-93f4-9fc33fe225cf,ohm.gg,resell,,,high,high,3,Porkbun LLC (https://porkbun.com/),,,26/09/2026 07:52
+5e8d5b00-4704-40ff-a6a3-c7f2168e2392,shia.gg,available,68.98,82.98,medium,low,4,namecheap,,,29/09/2026 02:12
 2d0239fb-d3c4-43ff-ad00-1b9425701b7d,haphazard.gg,available,68.98,82.98,high,low,9,namecheap,,,20/08/2026 23:46
 e9197c78-4340-43e6-8514-b2adf4e9e1b7,colourise.gg,available,68.98,82.98,medium,low,9,namecheap,,,12/08/2026 17:38
 664fc3dd-ba2b-4a44-8c63-eac35de4ca20,neurobiology.gg,available,,,high,high,12,,,,
@@ -873,7 +887,7 @@ d126ee65-30ec-479c-9083-c8f9fa24031c,conurbation.gg,available,,,high,high,11,,,,
 8f759b35-4f10-470d-80d1-c9cf14e20415,adenoma.gg,available,68.98,82.98,medium,low,7,namecheap,,,17/09/2026 07:30
 7d0bdcdc-f0a4-4df8-9f3b-e64f4492eea2,knish.gg,available,,,high,high,5,,,,
 cd972ae6-c1a2-4b90-9e32-0c010b3ade40,coitus.gg,available,,,high,high,6,,,,
-5182d5b0-c314-430c-a97e-db49df341d0b,lastly.gg,available,82.98,,high,low,6,namecheap,,,
+5182d5b0-c314-430c-a97e-db49df341d0b,lastly.gg,available,51.8,51.8,medium,low,6,porkbun,,,28/09/2026 15:27
 0e90ba30-02ec-4adf-b894-d8b4c454f608,eula.gg,available,,,high,high,4,,,,
 f83e25cc-a97c-43fb-a5f6-7adb961b241b,flecked.gg,available,68.98,82.98,high,low,7,namecheap,,,14/08/2026 16:30
 76971524-ec91-4b39-9c55-56664cd78dbd,machiavelli.gg,available,,,high,high,11,,,,
@@ -985,17 +999,3 @@ ddf8af43-db01-4ab5-8935-f466ecae4337,executrices.gg,available,,,medium,low,11,,,
 502723a7-a4e5-41e3-bd59-fff3280b004d,adlai.gg,available,,,high,high,5,,,,
 45c94823-17da-466e-90a8-951ad6bb656a,subactive.gg,available,,,high,high,9,,,,
 b65ad6ab-d5be-4a07-83da-68dff19de68b,panful.gg,available,,,high,low,6,,,,
-c5cf20f6-3746-4635-80da-52c003a630d6,mindfulness.gg,resell,,,high,high,11,Enrapture Limited (https://enrapture.gg),,,26/09/2026 07:33
-3eb06074-9162-4c60-aa87-ccca05a72098,buckeyes.gg,available,,,high,low,8,,,,
-9a2c21c7-fc24-4412-9944-1f7bb0c8c510,midstream.gg,available,,,high,high,9,,,,
-17c704e8-c5a0-45ed-a96c-dcfe96c0a8fd,prawnlike.gg,available,,,high,high,9,,,,
-1a7b42cc-ec40-465b-bc1a-c7a0a8601182,simples.gg,available,,,high,high,7,,,,
-a8b3cb8e-cbf0-4fbf-a09e-d1fb7a52bd96,graceful.gg,available,68.98,82.98,high,low,8,namecheap,,,20/08/2026 17:25
-accf598e-fe96-42ca-b201-7085690b5d77,blare.gg,available,68.98,82.98,high,low,5,namecheap,,,10/08/2026 13:12
-714dec19-5661-4e6e-acba-7856b6fa4619,rumple.gg,available,,,high,high,6,,,,
-f22fd3a8-19e7-4437-8ed8-b73e82fdd686,licensors.gg,available,,,medium,low,9,,,,
-2b7b075d-0ad3-41d2-b5b6-c8d434512af0,coccoid.gg,available,68.98,82.98,medium,low,7,namecheap,,,12/08/2026 14:41
-7285571a-8c4f-4edd-98a5-bfcb24225aa9,nonasian.gg,available,,,high,high,9,,,,
-c5dd8924-43d8-4f55-913c-40706fb0cb59,uninviting.gg,available,68.98,82.98,medium,low,10,namecheap,,,12/09/2026 13:39
-26d28c9d-3b18-4dfb-8829-7b78ec5d8f91,accroachments.gg,available,,,low,low,13,,,,
-88b0e669-0c0e-485c-a509-3fb4a1b05085,grandfather.gg,available,82.98,,high,low,11,namecheap,,,
